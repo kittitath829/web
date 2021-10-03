@@ -74,8 +74,6 @@
   transform: translate(-50%, -50%);
 }
 
-
-
 #care {
   font-size: 20px ;
   font-weight: bold;
@@ -338,36 +336,23 @@
 }
 
 .text-organization-packet{
-  /*position: absolute;*/
   color:#815DE6;
 }
 
-
-
-
-
-
 .header-table-top{
   font-weight: bold;
-  font-size: 20px ;
+  font-size: 20px;
 }
 
 .table-battle {
   width: 100%;
-  /*margin: 1em;*/
-  /*margin-top: 1rem;*/
-
   color: #121212;
-  /*padding:6px 25px;*/
-  /*margin-right: 1em;*/
 }
 .table-battle thead th {
   vertical-align: bottom;
   padding-top: 3ex;
   padding-bottom: 3ex;
   padding-left: 3ex;
-  /*margin-top: 5em;*/
-  /*border-bottom: 2px solid #e1e1e1;*/
 }
 .table-battle th{
   padding: 0.75rem;
